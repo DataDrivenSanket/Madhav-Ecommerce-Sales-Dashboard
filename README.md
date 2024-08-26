@@ -49,8 +49,8 @@ This dashboard is built using fictional e-commerce sales data, representing a di
 - **Enhanced User Interactivity:** Addition of more granular filtering options and user-driven parameters.
 - **Advanced Analytics:** Incorporation of predictive analytics and machine learning models for future sales forecasting.
 
-## SCREENSHOT
+## DASHBOARD SCREENSHOT
 
-
+![Screenshot 2024-08-26 161602](https://github.com/user-attachments/assets/d539f6bf-ab47-4304-a2f0-07adf185e4f6)
 
 
