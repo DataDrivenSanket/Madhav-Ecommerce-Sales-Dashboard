@@ -53,4 +53,5 @@ This dashboard is built using fictional e-commerce sales data, representing a di
 
 ![Screenshot 2024-08-26 161602](https://github.com/user-attachments/assets/d539f6bf-ab47-4304-a2f0-07adf185e4f6)
 
-
+## Contact
+For any inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/sanketphapale).
